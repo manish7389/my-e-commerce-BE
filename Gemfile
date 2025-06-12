@@ -47,4 +47,4 @@ end
 gem 'bcrypt'           
 gem 'jwt'     
 gem 'byebug'       
-
+gem 'rails_12factor', group: :production
