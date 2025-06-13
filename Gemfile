@@ -48,3 +48,6 @@ gem 'bcrypt'
 gem 'jwt'     
 gem 'byebug'       
 gem 'rails_12factor', group: :production
+gem 'rails_admin'
+gem "sassc-rails"
+gem "sassc-rails"
